@@ -1,0 +1,6 @@
+{
+  "name": "Eat Time Turkish Restaurant",
+  "description": "Authentic Turkish Shawarma, Kebabs & Charcoal Grills in Dukhan, Qatar. Free home delivery inside Dukhan with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
